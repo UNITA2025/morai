@@ -1,0 +1,8 @@
+prefix=/home/han/catkin_ws/install
+
+Name: macaron_5_SVAC_32
+Description: Description of macaron_5_SVAC_32
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

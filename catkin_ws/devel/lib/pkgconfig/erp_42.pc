@@ -1,0 +1,8 @@
+prefix=/home/han/catkin_ws/devel
+
+Name: erp_42
+Description: Description of erp_42
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
