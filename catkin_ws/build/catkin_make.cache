@@ -1,0 +1,2 @@
+erp_42:macaron_5_SVAC_32:morai_msgs
+-DCATKIN_DEVEL_PREFIX=/home/han/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/han/catkin_ws/install -G Unix Makefiles
